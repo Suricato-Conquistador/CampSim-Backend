@@ -21,7 +21,7 @@ All notable changes to this project will be documented in this file. See [standa
 ## 1.1.0 (2025-09-16)
 
 
-### Funcionalidades
+### Features
 
 * Created docker files for containerization ([337e9ef](https://github.com/Suricato-Conquistador/CampSim/commit/337e9ef755475f5a1ba2cf7b6ab491e5483fd271))
 
