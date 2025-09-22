@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.1.3 (2025-09-22)
+
+
+### Fixes
+
+* API container does not wait for DB connection ([9abc416](https://github.com/Suricato-Conquistador/CampSim/commit/9abc416b02ca3e0e1cdd9a7580a74efb10a3d39b))
+
 ### 1.1.2 (2025-09-16)
 
 ### 1.1.1 (2025-09-16)
