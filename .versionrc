@@ -8,9 +8,9 @@
     { "type": "chore", "section": "Tasks" },
     { "type": "merge", "section": "Merges" }
   ],
-  "commitUrlFormat": "https://github.com/Suricato-Conquistador/CampSim/commit/{{hash}}",
-  "compareUrlFormat": "https://github.com/Suricato-Conquistador/CampSim/compare/{{previousTag}}...{{currentTag}}",
-  "issueUrlFormat": "https://github.com/Suricato-Conquistador/CampSim/issues/{{id}}",
+  "commitUrlFormat": "https://github.com/Suricato-Conquistador/CampSim-Backend/commit/{{hash}}",
+  "compareUrlFormat": "https://github.com/Suricato-Conquistador/CampSim-Backend/compare/{{previousTag}}...{{currentTag}}",
+  "issueUrlFormat": "https://github.com/Suricato-Conquistador/CampSim-Backend/issues/{{id}}",
   "userUrlFormat": "https://github.com/{{user}}",
   "skip": {
     "tag": false
